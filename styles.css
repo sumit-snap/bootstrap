@@ -1,0 +1,51 @@
+body{
+	margin-top: 80px;
+	background: #e6e6e6;
+	text-align: justify;
+	line-height: 25px;
+}
+
+
+h2{
+	color: #ffffff;
+	background: #cccccc;
+}
+
+h3{
+	color: #ff661a;
+	text-decoration: underline #66b3ff;
+}
+
+#smoothies{
+
+	backgrond: #f2f2f2;
+
+}
+
+#tiramisu{
+	backgrund: #f2f2f2;
+	
+}
+
+#cake{
+	backgrund: #f2f2f2;
+	
+}
+
+li{
+	list-style-position: inside;
+}
+
+Footer{
+	padding: 50px;
+	color: #66b3ff;
+	text-align: center;
+	font-size: 33px;
+}
+
+a{
+	color: #00cc00;
+}
+.slider{
+	margin:20px;
+}
